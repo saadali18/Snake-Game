@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Snake-Game/static/css/main.4d73e0b5.chunk.css",
+    "main.js": "/Snake-Game/static/js/main.e8965451.chunk.js",
+    "main.js.map": "/Snake-Game/static/js/main.e8965451.chunk.js.map",
+    "runtime-main.js": "/Snake-Game/static/js/runtime-main.3308207b.js",
+    "runtime-main.js.map": "/Snake-Game/static/js/runtime-main.3308207b.js.map",
+    "static/js/2.822418a5.chunk.js": "/Snake-Game/static/js/2.822418a5.chunk.js",
+    "static/js/2.822418a5.chunk.js.map": "/Snake-Game/static/js/2.822418a5.chunk.js.map",
+    "index.html": "/Snake-Game/index.html",
+    "precache-manifest.82b03ca4e84421f52514262cc27ab687.js": "/Snake-Game/precache-manifest.82b03ca4e84421f52514262cc27ab687.js",
+    "service-worker.js": "/Snake-Game/service-worker.js",
+    "static/css/main.4d73e0b5.chunk.css.map": "/Snake-Game/static/css/main.4d73e0b5.chunk.css.map",
+    "static/js/2.822418a5.chunk.js.LICENSE.txt": "/Snake-Game/static/js/2.822418a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3308207b.js",
+    "static/js/2.822418a5.chunk.js",
+    "static/css/main.4d73e0b5.chunk.css",
+    "static/js/main.e8965451.chunk.js"
+  ]
+}
