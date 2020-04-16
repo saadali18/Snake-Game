@@ -1,0 +1,30 @@
+.area
+{
+  position: relative;
+  margin:auto;
+  border: 2px solid black;
+  width: 300px;
+  height: 300px;
+}
+.box
+{
+  position: absolute;
+  border: 1px solid white;
+  width: 4%;
+  height: 4%;
+  background-color: black;
+}
+.food
+{
+  position: absolute;
+  border: 1px solid white;
+  width: 4%;
+  height: 4%;
+  background-color: red;
+}
+.header
+{
+  position: relative;
+  right: 10rem;
+  top: 5rem;
+}
